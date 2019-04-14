@@ -12,3 +12,4 @@ Material provided in the course [ML From Coursera](https://www.coursera.org/lear
 |  4  | Linear Regression - multiple variables, Normal Equations |
 |  5  | Octave Basics, Vectorisation |
 |  6  | Complete Logistic Regression | 
+|  7  | Regularization -Overfitting |
